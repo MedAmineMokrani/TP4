@@ -3,11 +3,12 @@ def egyptienne (a,b):
     c = 0
     while a != 0:
         if a % 2 == 1:
-            c+= b
+         c+= b
         a = a // 2
         b += b
-    print (a)
+    print (c)
     
     
-egyptienne(10,10)  
+egyptienne(7,11)  
+
   
