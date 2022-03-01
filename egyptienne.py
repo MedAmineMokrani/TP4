@@ -9,6 +9,6 @@ def egyptienne (a,b):
     print (c)
     
     
-egyptienne(7,11)  
+egyptienne(7,11) 
 
   
