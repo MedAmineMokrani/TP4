@@ -25,7 +25,7 @@ class file:
         fich = open("resultat.txt","w")
         fich.write(str(a))
         fich.close 
-      
+        
 
 classe = file()
 read = classe.Read()
