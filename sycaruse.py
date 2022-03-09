@@ -10,4 +10,5 @@ def sycaruse (a):
         return a
 
 
-sycaruse(5)
+a = int(input())
+sycaruse(a)
